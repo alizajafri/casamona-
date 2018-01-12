@@ -1,0 +1,100 @@
+// Use this file to overwrite the basic Bootstrap variables and add your own variables
+// To overwrite a Bootstrap variable you don´t have to touch the Bootstrap folder. 
+// Just copy a variable from /sass/bootstrap/_variables.scss, paste it here and edit the value.
+// As example you find one of the most important Bootstrap variable below: $brand-primary.
+// Thats the ugly Bootstrap blue used for all the links, primary buttons etc.
+// Just add your color code here, compile the theme.scss file to change this color everywhere
+
+$font-family-sans-serif:Arial, sans-serif;
+$brand-primary:         #952626; //#ff6d5a
+$brand-inverse: 		#ffffff;
+$brand-success:         #9A826E;
+$link-color:			#8e1818;
+$link-hover-color:		#484848;
+$message: #952626;
+$none: none;
+
+// Color
+$white:                     #ffffff;
+$dark-blue:                 #23374f;
+$maroon:					#8e1818;
+$border-gery:          		#dadada;
+$d2d2d2:					#d2d2d2;
+$font-color:				#484848;
+$hdg-color:                 #840305;
+$italic-color:              #820000;
+$bgcolor-white:             #ffffff;
+
+
+//Create grayscale
+$gray-dark:                 #292b2c !default;
+$gray:                      #464a4c !default;
+$gray-light:                #636c72 !default;
+$gray-lighter:              #eceeef !default;
+$gray-lightest:             #f7f7f9 !default;
+
+// Basics of a navbar
+$navbar-height:                    60px;
+$navbar-brand-width:				20%;
+$navbar-margin-bottom:             0px;
+$navbar-border-radius:             0px;
+$nav-link-color:                   #484848;
+$nav-link-color-hover:             #8e1818;
+$nav-link-font-weight:             600;
+$nav-link-font-size:             .85rem;
+
+//Font Weight
+$font-weight-bold: bold;
+$rem-font-size-xsmall: .8rem;
+$rem-font-size-small: .85rem;
+$rem-font-size-xlarge: 1.3rem;
+$rem-font-size-medium: .95rem;
+$rem-font-size-large: 1rem;
+
+//Border Property
+$border-radius-2: 2px;
+$footer-bottom-border: 1px solid #757575;
+$border-radius-50: 50%;
+
+//Text property
+$text-transform: uppercase;
+
+// Padding
+$no-padding:     0px;
+$nav-link-padding: 15px;
+$contact-padding: 10px 30px;
+$banner-padding: 10% 0% 0%;
+$footer-bottom-padding: 15px 0px;
+$padding-100 : 100px;
+
+//List-style
+$list-style-type-none: none;
+
+//Margin
+$margin-auto:			0px auto;
+$no-margin: 	0px;
+
+//Position
+$position-relative: relative;
+$position-absolute: absolute;
+
+//Background Property
+$background-size-cover: cover;
+$background-position-left-bottom: left bottom ;
+$background-position-right-top: right top ;
+$bg-no-repeat: no-repeat;
+
+
+//Banner head and overlay
+$banner-height:  550px;
+$banner-overlay-bg: rgba(0,0,0,0.4);
+$banner-overlay-height: 100%;
+$banner-h4-width: 34%;
+$banners-h4-width:42%;
+$banner-h4-font-size: 1.5rem;
+$banner-entry-title-font-size: 4.5rem;
+$banners-h4-font-size: 2.5rem;
+$post-thumb-height: 255px;
+
+//Footer
+$footer-background: #484848;

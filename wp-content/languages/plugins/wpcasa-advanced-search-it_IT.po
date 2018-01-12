@@ -1,0 +1,68 @@
+# Translation of Plugins - WPCasa Advanced Search - Stable (latest release) in Italian
+# This file is distributed under the same license as the Plugins - WPCasa Advanced Search - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2017-01-17 23:43:03+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Generator: GlotPress/2.3.0-alpha\n"
+"Language: it\n"
+"Project-Id-Version: Plugins - WPCasa Advanced Search - Stable (latest release)\n"
+
+#. Author URI of the plugin/theme
+msgid "http://wpsight.com"
+msgstr "http://wpsight.com"
+
+#. Author of the plugin/theme
+msgid "WPSight"
+msgstr "WPSight"
+
+#. Description of the plugin/theme
+msgid "Display an expandable area with advanced options in WPCasa property search form."
+msgstr "Mostra un'area espandibile con le opzioni avanzati di ricerca nel forma di ricerca immobili di WPCasa"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wpcasa.com/downloads/wpcasa-advanced-search"
+msgstr "https://wpcasa.com/downloads/wpcasa-advanced-search"
+
+#. Plugin Name of the plugin/theme
+msgid "WPCasa Advanced Search"
+msgstr "WPCasa Advanced Search"
+
+#: wpcasa-advanced-search.php:182
+msgid "desc"
+msgstr "Dal maggiore"
+
+#: wpcasa-advanced-search.php:181
+msgid "asc"
+msgstr "Dal minore"
+
+#: wpcasa-advanced-search.php:178
+msgid "Order"
+msgstr "Ordina"
+
+#: wpcasa-advanced-search.php:169
+msgid "Title"
+msgstr "Titolo"
+
+#: wpcasa-advanced-search.php:168
+msgid "Price"
+msgstr "Prezzo "
+
+#: wpcasa-advanced-search.php:167
+msgid "Date"
+msgstr "Data"
+
+#: wpcasa-advanced-search.php:164
+msgid "Order by"
+msgstr "Ordina per"
+
+#: wpcasa-advanced-search.php:153
+msgid "Price (max)"
+msgstr "Prezzo (max)"
+
+#: wpcasa-advanced-search.php:142
+msgid "Price (min)"
+msgstr "Prezzo (min) "
